@@ -20,6 +20,7 @@
             margin: 15px 0px 10px 6px;
             border: 2px ridge rgb(161, 161, 161);
             padding: 6px;
+            float:right;
         }
         
         #cute-cat {
