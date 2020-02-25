@@ -7,7 +7,8 @@
             background-color: rgb(200, 16, 46);
         }
         
-        
+        h1.{
+        color:black;
         </style>
     </head>
     <body>
