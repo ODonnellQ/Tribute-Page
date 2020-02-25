@@ -1,5 +1,5 @@
 # Tribute-Page
-<!doctype html>
+
 <html>
 <head>
     <title>CSS box model</title>
