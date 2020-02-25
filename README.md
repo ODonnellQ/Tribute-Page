@@ -8,7 +8,7 @@
         }
         
         h1.{
-        color:black;
+        font-color:black;
         </style>
     </head>
     <body>
