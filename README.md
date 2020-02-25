@@ -4,14 +4,9 @@
         <meta charset="utf-8">
         <style>
         body {
-            background-color: rgb(200,16,46);
+            background-color: rgb(200, 16, 46);
         }
-        .red {
-            background-color:rgb(214, 214, 214);
-        }
-        .orange {
-            background-color:rgb(140, 255, 209);
-        }
+        
         
         </style>
     </head>
