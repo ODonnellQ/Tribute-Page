@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <style>
         body {
-            background-color: rgb(130, 236, 255);
+            background-color: rgb(200,16,46);
         }
         .red {
             background-color:rgb(214, 214, 214);
