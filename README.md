@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <style>
         body {
-            background-color: rgb(200, 16, 46);
+            background: linear-gradient(to bottom, #c8102e 0%, #ffffcc 100%)
         }
         
         h1{
